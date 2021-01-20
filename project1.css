@@ -1,0 +1,28 @@
+#main{
+    background-color: #eee;
+    align-items: center;
+
+
+}
+#image {
+    align-items: center;
+    /* height: ; */
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#title{
+    text-align: center;
+}
+.one{
+    text-align: center;
+}
+.page{
+    background-color:lightblue;
+    padding:5px 30px;
+    margin:100px;
+}
+.footer{
+    text-align: center;
+}
